@@ -1,0 +1,5 @@
+# Local development state
+.atl/
+odd/
+__pycache__/
+*.pyc
